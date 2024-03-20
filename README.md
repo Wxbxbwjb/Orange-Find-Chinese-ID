@@ -1,4 +1,5 @@
 # Orange-Find-Chinese-ID
+This program is used to find the Chinese-ID of junior high schools only.
 
 使用协议V1.0（End User License Agreement，EULA）
 
